@@ -1,3 +1,4 @@
 # first-demo
-this is my first git repository
-author jai surya
+this is my first git repository.
+<br>
+-author jai surya
